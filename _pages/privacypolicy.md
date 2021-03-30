@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 # Privacy Policy
-This Privacy Policy governs the manner in which Ceek App collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.Ceek.cool website ("Site").
+This Privacy Policy governs the manner in which Bleem App collects, uses, maintains and discloses information collected from users (each, a "User") of the https://bleem.fubaimaomei.com/ website ("Site").
 
 <br>
 
@@ -25,7 +25,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 <br>
 
 ## How we use collected information
-Ceek app may collect and use Users personal information for the following purposes:
+Bleem app may collect and use Users personal information for the following purposes:
 To run and operate our Site
 We may need your information display content on the Site correctly.
 To improve customer service
@@ -55,7 +55,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 <br>
 
 ## Changes to this privacy policy
-Ceek App has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Bleem App has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 <br>
 
